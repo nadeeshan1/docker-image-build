@@ -46,7 +46,7 @@ https://hub.docker.com/repository/docker/nadeeshan1/docker-assignment/general
 
 ## GitHub Repository
 
-https://github.com/YOUR_USERNAME/docker-assignment
+https://github.com/nadeeshan1/docker-image-build
 
 ## New Techniques Learned
 
